@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 
-def print_list_integer(my_list=[]):
+def best_score(a_dictionary):
 
-    for i in my_list:
-        print("{:d}".format(i))
+    if a_dictionary is None or len(a_dictionary) == 0:
+        return None
+
+    best_key = max(a_dictionary, key=a_dictionary.get)
+    return best_key
