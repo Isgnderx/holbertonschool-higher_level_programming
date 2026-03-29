@@ -1,4 +1,4 @@
-##!/usr/bin/python3
+#!/usr/bin/python3
 """
 This module provides a function that divides all elements of a matrix.
 It validates the matrix structure, element types, and the divisor.
