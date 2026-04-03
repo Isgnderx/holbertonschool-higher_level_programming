@@ -2,6 +2,8 @@
 """
    salam
 """
+
+
 class Square:
     """Salam Class"""
     pass
