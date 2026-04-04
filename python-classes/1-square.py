@@ -1,11 +1,14 @@
 #!/usr/bin/python3
-"""
-    iasuhda
-"""
+"""Module that defines a Square class."""
+
 
 class Square:
-    """Defines a square"""
+    """Represents a square."""
 
     def __init__(self, size):
-        """Initialize square with given size"""
+        """Initializes a new Square.
+
+        Args:
+            size: The size of the square.
+        """
         self.__size = size
