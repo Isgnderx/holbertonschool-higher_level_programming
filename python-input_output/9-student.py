@@ -16,3 +16,4 @@ class Student:
     def to_json(self):
         """Obyektin lüğət (dict) təmsilini qaytarır."""
         return self.__dict__
+    
