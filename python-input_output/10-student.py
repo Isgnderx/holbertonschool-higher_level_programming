@@ -20,4 +20,3 @@ class Student:
                     res[key] = getattr(self, key)
             return res
         return self.__dict__
-    
