@@ -1,2 +1,2 @@
---izah
+-- izah
 SHOW DATABASES;
