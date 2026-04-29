@@ -1,0 +1,2 @@
+-- izah
+SHOW TABLES FROM DATABASE;
