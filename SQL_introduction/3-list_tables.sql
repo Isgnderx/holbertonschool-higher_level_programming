@@ -1,2 +1,2 @@
 -- izah
-SHOW TABLES FROM DATABASE mysql;
+SHOW TABLES;
